@@ -32,7 +32,6 @@ public class HelloRequest {
 	}
 	public HelloRequest() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	
 }
